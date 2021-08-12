@@ -1,8 +1,9 @@
 #hw5-binary tree
-- `stack, queue`
-- `tree`
-- breadth-first traversal by using queue
-- depth-first traversal(PreOrder) by using stack
+- `stack`
+- `queue`
+- `binary-tree`
+- `BFT` Breadth-First Traversal by using queue
+- `DFT` Depth-First Traversal(PreOrder) by using stack
 
 
 ## Folder Structure
