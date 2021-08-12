@@ -1,6 +1,9 @@
-## Getting Started
+#hw5-binary tree
+- `stack, queue`
+- `tree`
+- breadth-first traversal by using queue
+- depth-first traversal(PreOrder) by using stack
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
 
 ## Folder Structure
 
